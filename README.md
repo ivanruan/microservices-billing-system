@@ -41,7 +41,7 @@ _📍 Detailed architecture diagram coming soon..._
 
 ## 🛠️ Tech Stack
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Cloud**
 - **Spring Security + OAuth2 + JWT**
